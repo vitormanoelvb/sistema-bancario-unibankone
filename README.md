@@ -57,11 +57,11 @@ O sistema implementa um controle rigoroso para menores de idade:
 ###
 - **Paradigma:** Programação Orientada a Objetos
 - **Interface:** Console (texto com menus estilizados)
-- **Motor gráfico:** `VM Engine Development v1.5`
+- **Motor gráfico:** `VM Engine Development`
   
   <div align="left">
-  <img src="VM%20ENGINE.png" height="100" alt="VM Engine Logo" />
-</div>
+ <img src="VM Engine Logo.png" height="130" alt="VM Engine Logo" />
+  <br><br>
 
 - **Armazenamento:** Em memória (dados não persistentes)
 
@@ -151,7 +151,7 @@ Desenvolvido com o motor gráfico exclusivo:
 **🖥️ VM ENGINE DEVELOPMENT v1.5**
 
 <div align="left">
-  <img src="VM%20ENGINE.png" height="100" alt="VM Engine V" />
+  <img src="VM Engine V.png" height="130" alt="VM Engine V1.5" />
 </div>
 
 ---
@@ -164,8 +164,7 @@ Este sistema é acadêmico e não deve ser utilizado em ambientes produtivos. Fo
 
 ###
 
-<div align="center"> 
-  <img src="BANNER%20-%20VEW%20SOLU%C3%87%C3%95ES.png" width="100%" alt="VM ENGINE SYSTEMS" />
+  <img src="VM ENGINE SYSTEMS.png" width="100%" alt="VM Engine Systems" />
 </div>
 
 ---
